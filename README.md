@@ -14,5 +14,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anusham14&theme=radical&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anusham14&theme=radical&show_icons=true" />
 </div>
-<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/anusham14/count.svg" alt="Visitor Count" /></h2>
+
 
