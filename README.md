@@ -10,3 +10,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm no fun!
 
+<img src="https://github-readme-stats.vercel.app/api?username=anusham14&&show_icons=true&title_color=038B8B&icon_color=1FC4C5&text_color=daf7dc&bg_color=151515">
+
