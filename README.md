@@ -6,9 +6,13 @@
 - 👯 I’m looking to collaborate on any beginner-intermediate level of project
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about community work 
-- 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/anusha-maiti-533115198/)
+- 📫 Reach me out at : <a href="https://www.linkedin.com/in/anusha-maiti-533115198/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:anushamr141022@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm no fun!
 
-<img src="https://github-readme-stats.vercel.app/api?username=anusham14&&show_icons=true&title_color=038B8B&icon_color=1FC4C5&text_color=daf7dc&bg_color=151515">
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anusham14&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anusham14&theme=radical&show_icons=true" />
+</div>
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/anusham14/count.svg" alt="Visitor Count" /></h2>
 
