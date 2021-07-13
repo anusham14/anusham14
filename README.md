@@ -15,6 +15,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anusham14&theme=radical&show_icons=true" />
 </div>
 
-
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusham14&theme=algolia&layout=compact" />
+</p>
 
