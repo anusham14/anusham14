@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJS & ReactJS
 - 👯 I’m looking to collaborate on any beginner-intermediate level of project
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about community work 
