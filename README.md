@@ -11,11 +11,11 @@
 - ⚡ Fun fact: I'm no fun!
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anusham14&theme=radical&show_icons=true" />
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anusham14&theme=algolia" alt="anusham14" /></p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anusham14&theme=radical&show_icons=true&hide_border=true"/>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anusham14&theme=radical&hide_border=true" alt="anusham14" /></p>
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusham14&theme=algolia&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusham14&theme=radical&hide_border=true" />
 </p>
 
